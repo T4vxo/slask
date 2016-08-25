@@ -1,0 +1,20 @@
+{
+  "name": "slask",
+  "authors": [
+    "T4vxo <daniel.lundberg@utb.vaxjo.se>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
